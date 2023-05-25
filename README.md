@@ -18,4 +18,4 @@ Are you sure?
  
  Ki lo sele
 
-Kini big deal
+Kini big deal?
