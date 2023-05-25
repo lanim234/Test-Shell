@@ -6,3 +6,5 @@ Topic of the week
 Arsenal lost the league to Manchester City!
 
 How to Build a Docker File
+
+My life is in your hands
