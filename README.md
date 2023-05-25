@@ -19,3 +19,5 @@ Are you sure?
  Ki lo sele
 
 Kini big deal?
+
+kasaFinal
