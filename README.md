@@ -1,25 +1,13 @@
-# Test-Shell
-i support manchester united
-Learning shell scripting
+Test of shell scripting
 
-Topic of the week
-Arsenal lost the league to Manchester City!
-
-How to Build a Docker File
-
-My life is in your hands
-
-This is a test
-what's up with you
-
-Liverpool FC cannot make champions league this season
-Are you sure?
- Maserati
- 
- Ki lo sele
-
-Kini big deal?
-
-kasaFinal
-hen
-maosa
+1. commnts
+2. printing
+3. variabls
+4. functions
+5. conditions
+6. loops
+7. inputs
+8. Exit Status
+9. Quotes
+10. Redirections
+11. Sed editor
